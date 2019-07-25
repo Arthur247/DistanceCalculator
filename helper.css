@@ -1,0 +1,14 @@
+.text-danger {
+    color: red;
+}
+
+#distance-calculator {
+    margin-top: 10px;
+}
+
+@media all and (max-width: 768px) {
+    .form-inline {
+        display: block !important;
+    }
+}
+
